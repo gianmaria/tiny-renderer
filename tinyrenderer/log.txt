@@ -1,0 +1,2 @@
+info, cache line size: 64
+info, cache line size: 64
